@@ -1,0 +1,67 @@
+Here’s a list of Material Icons, descriptions, and functions for each section of the Cloud Service Adoption Process (CSAP) slide deck:
+
+1. Service Definition
+	•	Material Icon: description (or info)
+	•	Description: Provides an overview of the service, including its purpose, key features, and how it fits into the cloud ecosystem.
+
+2. Technical Capability and Service Owner
+	•	Material Icon: engineering (or person_outline)
+	•	Description: Identifies the key technical functionalities of the service and designates the team or individual responsible for its operation and lifecycle.
+
+3. Use Cases
+	•	Material Icon: lightbulb
+	•	Description: Outlines the primary business and technical scenarios in which the service is expected to be used, including key benefits and outcomes.
+
+4. POC (Proof of Concept) Information
+	•	Material Icon: science (or experiment)
+	•	Description: Documents test environments, evaluation criteria, and findings from pilot deployments to assess service feasibility and alignment with business needs.
+
+5. Approval Scope
+	•	Material Icon: gavel (or check_circle)
+	•	Description: Defines the boundaries for service approval, specifying which environments (e.g., dev, prod) the service is permitted to operate in and under what constraints.
+
+6. Security and Operational Requirements and Controls
+	•	Material Icon: security
+	•	Description: Lists mandatory security policies and operational safeguards that must be in place for the service to be compliant with company standards.
+
+7. Network
+	•	Material Icon: wifi (or lan)
+	•	Description: Defines networking requirements, including connectivity, firewall rules, VPC configurations, and dependencies on existing network infrastructure.
+
+8. IAM (Identity and Access Management)
+	•	Material Icon: lock (or key)
+	•	Description: Details authentication and authorization requirements, specifying user roles, access policies, and integration with identity providers.
+
+9. Data Protection
+	•	Material Icon: shield (or lock_person)
+	•	Description: Establishes guidelines for encryption, data retention, backup policies, and regulatory compliance related to sensitive data.
+
+10. Threat and Vulnerability Management
+	•	Material Icon: bug_report
+	•	Description: Defines processes for identifying, mitigating, and remediating security threats, including vulnerability scans and incident response plans.
+
+11. Logging and Monitoring
+	•	Material Icon: visibility (or analytics)
+	•	Description: Specifies logging, observability, and monitoring requirements to ensure system health, compliance, and proactive incident detection.
+
+12. Configuration and Change Management
+	•	Material Icon: settings
+	•	Description: Outlines change control policies, versioning, and automation strategies to maintain consistency and minimize disruptions.
+
+13. Security Compliance
+	•	Material Icon: verified_user
+	•	Description: Ensures the service aligns with internal security policies, regulatory requirements, and external compliance frameworks (e.g., SOC 2, ISO 27001).
+
+14. High Availability and Resiliency
+	•	Material Icon: cloud_sync (or auto_awesome)
+	•	Description: Defines fault tolerance, disaster recovery, and redundancy strategies to ensure minimal downtime and service continuity.
+
+15. Out of Scope
+	•	Material Icon: block (or remove_circle_outline)
+	•	Description: Lists areas explicitly excluded from the service review, such as architectural design decisions or budget estimations.
+
+16. Core Items Focus
+	•	Material Icon: star
+	•	Description: Highlights the most critical aspects of the service that require attention during the adoption process, ensuring alignment with business priorities.
+
+This should help add clarity and structure when converting the slide deck into a web page! Let me know if you want any tweaks.
